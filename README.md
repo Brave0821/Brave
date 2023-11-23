@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm 김용기</h1>
+<h1 align="center">Hi 👋 김용기</h1>
 <h3 align="center">새로운 하루</h3>
 
 <h3 align="left">Connect with me:</h3>
