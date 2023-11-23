@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=좋은하루!&fontColor=c0c0c0&color=gradient&textBg=cylinder)
+![header](https://capsule-render.vercel.app/api?text=좋은하루!&fontColor=c0c0c0&color=gradient&type=cylinder)
 <!--깃허브 프로필 헤더 꾸미기 -->
 <!-- https://github.com/kyechan99/capsule-render#how-to-use 사이트 뒤에 & 부분 수정하면 됨. 231123 추가 -->
 <!-- https://gist.github.com/rxaviers/7360908 이모티콘 사이트. 231123 추가 -->
