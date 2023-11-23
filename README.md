@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 김용기:hushed: </h1>
+<h1 align="center">Hi 👋 김용기:hushed: :notebook_with_decorative_cover: </h1>
 <h3 align="center">새로운 하루</h3>
 
 <h3 align="left">Connect with me:</h3>
