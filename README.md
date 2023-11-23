@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?text=좋은하루!&fontColor=000000&color=gradient)
 <!--깃허브 프로필 헤더 꾸미기 -->
 <!-- https://github.com/kyechan99/capsule-render#how-to-use 사이트 뒤에 & 부분 수정하면 됨.-->
-<h1 align="center">Hi 👋 김용기:hushed: :notebook_with_decorative_cover: </h1>
+<h1 align="center">김용기:hushed: :notebook_with_decorative_cover: </h1>
 <h3 align="center">새로운 하루</h3>
 
 <h3 align="left">Connect with me:</h3>
