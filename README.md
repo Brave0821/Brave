@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=good&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?text=좋은하루&animation=fadeIn)
 
 <h1 align="center">Hi 👋 김용기:hushed: :notebook_with_decorative_cover: </h1>
 <h3 align="center">새로운 하루</h3>
